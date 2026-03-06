@@ -1,0 +1,14 @@
+# 1. Bloqueo total: Ignoramos todo por defecto
+*
+
+# 2. Excepciones: Permitimos solo lo indispensable
+!.gitignore
+!Project.toml
+!Manifest.toml
+
+# 3. Tu trabajo: Scripts y Notebooks
+!*.jl
+!sim.ipynb
+
+# 4. (Opcional) Si realmente necesitas el modelo 3D en Git
+#!trap_v1.1.STL
