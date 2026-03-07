@@ -8,7 +8,7 @@
 
 # 3. Tu trabajo: Scripts y Notebooks
 !*.jl
-!sim.ipynb
+!*.ipynb
 
 # 4. (Opcional) Si realmente necesitas el modelo 3D en Git
 #!trap_v1.1.STL
